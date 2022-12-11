@@ -1,0 +1,27 @@
+{
+    "id": "95640368",
+    "path": "~/GitHub/Getting and cleaning data/run_analysis.R",
+    "project_path": "run_analysis.R",
+    "type": "r_source",
+    "hash": "4204262121",
+    "contents": "",
+    "dirty": false,
+    "created": 1670751641467.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "53,0",
+        "scrollLine": "36"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670751867,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670751867937,
+    "read_only": false,
+    "read_only_alternatives": []
+}
